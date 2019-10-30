@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/shop_efcore/v16/Server/sqlite3
+/bin/Debug/netcoreapp3.0
+/obj/Debug/netcoreapp3.0/staticwebassets
+/obj/Debug/netcoreapp3.0/shop_efcore.csproj.CopyComplete
+/obj/Debug/netcoreapp3.0/shop_efcore.csproj.FileListAbsolute.txt
+*.dll
+*.exe
+*.cache
+*.pdb
